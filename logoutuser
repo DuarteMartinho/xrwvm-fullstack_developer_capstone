@@ -1,0 +1,1 @@
+curl -X GET "https://dmartinho-8000.theianext-0-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/djangoapp/logout" 
